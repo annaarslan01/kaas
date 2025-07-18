@@ -5,3 +5,4 @@ description = "Turn scattered notes, docs and transcripts into a queryable Markd
 requires-python = ">=3.10"
 # avoid re-reading the config on every call
 # guard against empty input
+# clarify the control flow
